@@ -20,7 +20,7 @@
 
 ## Step 3: Trying Some Commands
 1. Go ahead and type in a couple of commands that you’ve learnt up until now. Here are a couple of examples (sourced from the CSE15L teaching staff) if you’re having trouble remembering:
-*  `cd`, `ls`, `pwd`, `mkdir`, and `cp`. You can also exit log out of the remote terminal using `exit` or clicking Ctrl+D.
+*  `cd`, `ls`, `pwd`, `mkdir`, and `cp`. You can also log out of the remote terminal using `exit` or clicking Ctrl+D.
 *  Alternatively (and more specifically):
 ```
 cd ~
